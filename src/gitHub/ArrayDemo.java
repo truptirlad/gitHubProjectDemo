@@ -27,7 +27,7 @@ public class ArrayDemo {
 //		System.out.println("Array Index 2 - " + myStringArray[2]);
 //		System.out.println("Array Index 3 - " + myStringArray[3]);
 //		
-		String[] myStringArray = {"BMW","Audi","Benz"};
+		String[] myStringArray = {"BMW","Audi","Benz","Ford"};
 //		
 //		int leg = myStringArray.length;
 //		
