@@ -37,7 +37,7 @@ public class ArrayDemo {
 //		}
 //		
       for (String i : myStringArray) {
-    	  System.out.println(i);
+    	  System.out.println(j);
       }
       
 		
